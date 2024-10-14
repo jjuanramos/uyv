@@ -2,5 +2,5 @@
 
 ```
 uv sync
-uv run marimo run app.py
+uv run marimo edit app.py
 ```
