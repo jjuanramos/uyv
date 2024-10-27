@@ -1,0 +1,2041 @@
+[{"Id":1009, "COD":"IPV1009", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Total Nacional. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1008, "COD":"IPV1008", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Total Nacional. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1007, "COD":"IPV1007", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Total Nacional. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1069, "COD":"IPV1069", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Total Nacional. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1068, "COD":"IPV1068", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Total Nacional. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1067, "COD":"IPV1067", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Total Nacional. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1006, "COD":"IPV1006", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Andalucía. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1005, "COD":"IPV1005", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Andalucía. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1004, "COD":"IPV1004", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Andalucía. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1066, "COD":"IPV1066", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Andalucía. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1065, "COD":"IPV1065", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Andalucía. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1064, "COD":"IPV1064", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Andalucía. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1003, "COD":"IPV1003", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Aragón. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1002, "COD":"IPV1002", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Aragón. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1001, "COD":"IPV1001", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Aragón. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1063, "COD":"IPV1063", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Aragón. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1062, "COD":"IPV1062", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Aragón. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1061, "COD":"IPV1061", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Aragón. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1000, "COD":"IPV1000", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Asturias, Principado de. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":999, "COD":"IPV999", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Asturias, Principado de. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":998, "COD":"IPV998", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Asturias, Principado de. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1060, "COD":"IPV1060", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Asturias, Principado de. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1059, "COD":"IPV1059", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Asturias, Principado de. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1058, "COD":"IPV1058", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Asturias, Principado de. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":997, "COD":"IPV997", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Balears, Illes. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":996, "COD":"IPV996", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Balears, Illes. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":995, "COD":"IPV995", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Balears, Illes. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1057, "COD":"IPV1057", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Balears, Illes. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1056, "COD":"IPV1056", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Balears, Illes. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1055, "COD":"IPV1055", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Balears, Illes. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":994, "COD":"IPV994", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Canarias. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":993, "COD":"IPV993", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Canarias. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":992, "COD":"IPV992", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Canarias. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1054, "COD":"IPV1054", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Canarias. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1053, "COD":"IPV1053", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Canarias. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1052, "COD":"IPV1052", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Canarias. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":991, "COD":"IPV991", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cantabria. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":990, "COD":"IPV990", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cantabria. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":989, "COD":"IPV989", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cantabria. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1051, "COD":"IPV1051", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cantabria. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1050, "COD":"IPV1050", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cantabria. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1049, "COD":"IPV1049", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cantabria. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":988, "COD":"IPV988", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla y León. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":987, "COD":"IPV987", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla y León. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":986, "COD":"IPV986", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla y León. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1048, "COD":"IPV1048", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla y León. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1047, "COD":"IPV1047", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla y León. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1046, "COD":"IPV1046", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla y León. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":985, "COD":"IPV985", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla - La Mancha. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":984, "COD":"IPV984", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla - La Mancha. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":983, "COD":"IPV983", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla - La Mancha. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1045, "COD":"IPV1045", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla - La Mancha. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1044, "COD":"IPV1044", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla - La Mancha. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1043, "COD":"IPV1043", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Castilla - La Mancha. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":982, "COD":"IPV982", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cataluña. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":981, "COD":"IPV981", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cataluña. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":980, "COD":"IPV980", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cataluña. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1042, "COD":"IPV1042", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cataluña. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1041, "COD":"IPV1041", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cataluña. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1040, "COD":"IPV1040", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Cataluña. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":979, "COD":"IPV979", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Comunitat Valenciana. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":978, "COD":"IPV978", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Comunitat Valenciana. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":977, "COD":"IPV977", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Comunitat Valenciana. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1039, "COD":"IPV1039", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Comunitat Valenciana. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1038, "COD":"IPV1038", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Comunitat Valenciana. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1037, "COD":"IPV1037", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Comunitat Valenciana. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":976, "COD":"IPV976", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Extremadura. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":975, "COD":"IPV975", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Extremadura. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":974, "COD":"IPV974", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Extremadura. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1036, "COD":"IPV1036", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Extremadura. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1035, "COD":"IPV1035", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Extremadura. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1034, "COD":"IPV1034", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Extremadura. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":973, "COD":"IPV973", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Galicia. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":972, "COD":"IPV972", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Galicia. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":971, "COD":"IPV971", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Galicia. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1033, "COD":"IPV1033", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Galicia. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1032, "COD":"IPV1032", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Galicia. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1031, "COD":"IPV1031", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Galicia. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":970, "COD":"IPV970", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Madrid, Comunidad de. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":969, "COD":"IPV969", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Madrid, Comunidad de. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":968, "COD":"IPV968", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Madrid, Comunidad de. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1030, "COD":"IPV1030", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Madrid, Comunidad de. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1029, "COD":"IPV1029", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Madrid, Comunidad de. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1028, "COD":"IPV1028", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Madrid, Comunidad de. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":967, "COD":"IPV967", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Murcia, Región de. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":966, "COD":"IPV966", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Murcia, Región de. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":965, "COD":"IPV965", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Murcia, Región de. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1027, "COD":"IPV1027", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Murcia, Región de. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1026, "COD":"IPV1026", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Murcia, Región de. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1025, "COD":"IPV1025", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Murcia, Región de. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":964, "COD":"IPV964", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Navarra, Comunidad Foral de. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":963, "COD":"IPV963", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Navarra, Comunidad Foral de. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":962, "COD":"IPV962", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Navarra, Comunidad Foral de. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1024, "COD":"IPV1024", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Navarra, Comunidad Foral de. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1023, "COD":"IPV1023", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Navarra, Comunidad Foral de. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1022, "COD":"IPV1022", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Navarra, Comunidad Foral de. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":961, "COD":"IPV961", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"País Vasco. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":960, "COD":"IPV960", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"País Vasco. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":959, "COD":"IPV959", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"País Vasco. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1021, "COD":"IPV1021", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"País Vasco. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1020, "COD":"IPV1020", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"País Vasco. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1019, "COD":"IPV1019", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"País Vasco. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":958, "COD":"IPV958", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Rioja, La. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":957, "COD":"IPV957", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Rioja, La. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":956, "COD":"IPV956", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Rioja, La. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1018, "COD":"IPV1018", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Rioja, La. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1017, "COD":"IPV1017", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Rioja, La. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1016, "COD":"IPV1016", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Rioja, La. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":955, "COD":"IPV955", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Ceuta. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":954, "COD":"IPV954", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Ceuta. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":953, "COD":"IPV953", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Ceuta. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1015, "COD":"IPV1015", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Ceuta. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1014, "COD":"IPV1014", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Ceuta. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1013, "COD":"IPV1013", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Ceuta. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":952, "COD":"IPV952", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Melilla. Media anual. General. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":951, "COD":"IPV951", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Melilla. Media anual. Vivienda nueva. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":950, "COD":"IPV950", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Melilla. Media anual. Vivienda segunda mano. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}
+,{"Id":1012, "COD":"IPV1012", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Melilla. Variación anual. General. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1011, "COD":"IPV1011", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Melilla. Variación anual. Vivienda nueva. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+,{"Id":1010, "COD":"IPV1010", "Operacion":{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+, "Nombre":"Melilla. Variación anual. Vivienda segunda mano. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":49, "Nombre":"Índice de Precios de Vivienda. Medias Anuales", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":15, "Cod_IOE":"30457", "Nombre":"Índice de Precios de la Vivienda (IPV)", "Codigo":"IPV", "Referencia":[{"Id":162, "Titulo":"Índice de precios de vivienda", "Url":"/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607"}
+]
+}
+]
+, "PubFechaAct":{"Id":10809, "Nombre":"Índice de Precios de Vivienda. Medias Anuales 2023", "Fecha":1709798400000, "Periodo":{"Id":28, "Valor":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Dia_inicio":"1", "Mes_inicio":"1", "Codigo":"01", "Nombre":"A", "Nombre_largo":"Año"}
+, "Anyo":2023}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}
+]
