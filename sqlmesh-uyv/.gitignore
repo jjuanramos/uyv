@@ -1,0 +1,5 @@
+.cache/
+logs/
+.DS_Store
+.venv
+models/base/__pycache__
