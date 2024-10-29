@@ -1,0 +1,1 @@
+select * from db.base.table25171
