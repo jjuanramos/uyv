@@ -18,13 +18,13 @@ with variacion_trimestral as (
     ) as id,
     total_nacional,
     comunidad_autonoma,
+    indice_tasa,
     tipo_vivienda,
     cast(substr(periodo, 1, 4) as int) as year,
     cast(substr(periodo, 6, 1) as int) as quarter,
-    valor as variacion_trimestral
+    valor
   from
     base.table25171_raw
-  where indice_tasa = 'Variación trimestral'
 )
 
 select * from variacion_trimestral
