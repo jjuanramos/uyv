@@ -16,10 +16,7 @@ explore:
 
 clean:
 	@rm -rf transform/db.db
-	@rm -rf transform/reports/node_modules
 	@rm -rf explore/__pycache__
-	@rm -rf explore/.venv
-	@rm -rf transform/.venv
 	@rm -rf transform/logs
 	@rm -rf transform/.cache
 
