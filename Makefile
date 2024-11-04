@@ -5,11 +5,10 @@ install:
 	@cd transform/reports && npm install
 
 transform:
-
 	@cd transform && uv run sqlmesh plan
-	@cp transform/db.db transform/reports/sources/uyv/db.db
 
 serve:
+	@cp transform/db.db transform/reports/sources/uyv/db.db
 	@cd transform/reports && npm run dev
 
 explore:
@@ -20,6 +19,9 @@ clean:
 	@rm -rf transform/reports/node_modules
 	@rm -rf explore/__pycache__
 	@rm -rf explore/.venv
+	@rm -rf transform/.venv
+	@rm -rf transform/logs
+	@rm -rf transform/.cache
 
 
 .PHONY: install transform serve clean

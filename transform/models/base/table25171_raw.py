@@ -4,7 +4,7 @@ from datetime import datetime
 from sqlmesh import ExecutionContext, model
 
 @model( 
-    "base.table25171",
+    "base.table25171_raw",
     kind="full",
     columns={
         "total_nacional": "text",
