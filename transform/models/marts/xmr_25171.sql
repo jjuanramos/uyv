@@ -16,4 +16,7 @@ with base as (
     and comunidad_autonoma = '13 Madrid, Comunidad de'
 )
 
-select * from base
+select * from base;
+
+copy marts.xmr_25171 to 'xmr_25171.csv'
+with (format = 'csv');
