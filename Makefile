@@ -5,7 +5,7 @@ install:
 	@cd transform/reports && npm install
 
 transform:
-	@cd transform && uv run sqlmesh plan
+	@cd transform && uv run sqlmesh run
 
 serve:
 	@cp transform/db.db transform/reports/sources/uyv/db.db
