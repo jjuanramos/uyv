@@ -2,7 +2,21 @@ MODEL (
     name base.table25171,
     kind FULL,
     cron '@daily',
-    grain id
+    grain id,
+    columns (
+      id VARCHAR,
+      total_nacional VARCHAR,
+      comunidad_autonoma VARCHAR,
+      indice_tasa VARCHAR,
+      tipo_vivienda VARCHAR,
+      year INT,
+      quarter INT,
+      valor FLOAT
+    ),
+    audits (
+      not_null(columns := (id)),
+      unique_values(columns := (id)),
+    )
   );
 
 with variacion_trimestral as (

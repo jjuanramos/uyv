@@ -18,5 +18,5 @@ with base as (
 
 select * from base;
 
-copy marts.xmr_25171 to 'xmr_25171.csv'
-with (format = 'csv');
+-- copy marts.xmr_25171 to 'xmr_25171.csv'
+-- with (format = 'csv');
