@@ -10,8 +10,7 @@ transform:
 	@cd transform && uv run sqlmesh run
 
 serve:
-	@cp transform/db.db transform/reports/sources/uyv/db.db
-	@cd transform/reports && npm run dev
+	@cd transform/reports && npm run sources && npm run dev
 
 explore:
 	@cd explore && uv sync &&uv run marimo edit app.py

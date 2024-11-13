@@ -1,1 +1,0 @@
-select * from db.marts.xmr_25171

@@ -1,8 +1,6 @@
 MODEL (
     name base.table25171,
-    kind INCREMENTAL_BY_TIME_RANGE (
-		time_column index_date
-	),
+    kind FULL,
     cron '@daily',
     grain id,
     audits (
