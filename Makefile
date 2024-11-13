@@ -1,4 +1,6 @@
-all: install transform serve
+all: install refresh
+
+refresh: transform serve
 
 install:
 	@cd transform && uv sync

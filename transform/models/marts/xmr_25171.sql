@@ -8,7 +8,7 @@ MODEL (
 with base as (
   select
     id,
-    make_date(year, (quarter * 3), 1) as index_date,
+	index_date,
     valor as variacion_trimestral
   from base.table25171
   where indice_tasa = 'Variación trimestral'

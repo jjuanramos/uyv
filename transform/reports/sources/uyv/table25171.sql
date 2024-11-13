@@ -1,1 +1,1 @@
-select * from db.base.table25171
+select * from db.marts.xmr_25171
